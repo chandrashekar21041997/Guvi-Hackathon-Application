@@ -1,35 +1,12 @@
-# E-Commerce React App
-
-Welcome to the E-Commerce React App! This project is a web application built using React that simulates an online store.
-
-
-
-
-
-## Getting Started
-
-These instructions will help you set up a local development instance of the E-Commerce React App on your machine.
-
-### Prerequisites
-
-- Node.js and npm (Node Package Manager) must be installed on your machine.
-
-### Clone the Repository
-
-
-git clone https://github.com/yasminjeelani/Hackathon-Application.git
-
-cd Hackathon-Application/shoestop
-
-### Install Dependencies
-
-npm install
-
-## Install the project dependencies using npm install.
-
-npm start
-
-Open your web browser and navigate to http://localhost:5000/home to view the app.
-
-
-
+![Screenshot (425)](https://github.com/chandrashekar21041997/Guvi-Hackathon-Application/assets/119240540/53b0ee7a-9708-4d75-92d3-3605ee62fce0)
+![Screenshot (424)](https://github.com/chandrashekar21041997/Guvi-Hackathon-Application/assets/119240540/0f8507c4-2eb6-41e6-afea-4ce74df5e64a)
+![Screenshot (423)](https://github.com/chandrashekar21041997/Guvi-Hackathon-Application/assets/119240540/06276d2e-5c90-40c4-85ae-38e9b6d2206d)
+![Screenshot (422)](https://github.com/chandrashekar21041997/Guvi-Hackathon-Application/assets/119240540/e3dac484-62ca-4411-8f52-1bc4cc85da14)
+![Screenshot (438)](https://github.com/chandrashekar21041997/Guvi-Hackathon-Application/assets/119240540/e593a7ab-bb53-49de-b19f-db138fc59dbd)
+![Screenshot (436)](https://github.com/chandrashekar21041997/Guvi-Hackathon-Application/assets/119240540/a350902e-dfcf-4921-9ce5-1c26b1665d54)
+![Screenshot (435)](https://github.com/chandrashekar21041997/Guvi-Hackathon-Application/assets/119240540/dd67e8a5-fdce-4321-8a26-227c9c3aca15)
+![Screenshot (434)](https://github.com/chandrashekar21041997/Guvi-Hackathon-Application/assets/119240540/c6b96dac-c2da-4ac4-86c8-bb2ed6513256)
+![Screenshot (432)](https://github.com/chandrashekar21041997/Guvi-Hackathon-Application/assets/119240540/d693a08c-4db8-4c8a-8a95-375a71e27823)
+![Screenshot (428)](https://github.com/chandrashekar21041997/Guvi-Hackathon-Application/assets/119240540/9a51a629-f3ee-4c36-9a5d-7792108241fa)
+![Screenshot (427)](https://github.com/chandrashekar21041997/Guvi-Hackathon-Application/assets/119240540/eef9a76f-ae5a-4a5b-8689-b9bfcd3402a3)
+![Screenshot (426)](https://github.com/chandrashekar21041997/Guvi-Hackathon-Application/assets/119240540/09eedc85-d26e-4056-af93-5a8c9de86b44)
