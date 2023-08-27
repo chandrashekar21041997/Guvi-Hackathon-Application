@@ -6,11 +6,11 @@ pipeline {
                 script {
                     // Clone the Git repository
                     checkout([$class: 'GitSCM',
-                              branches: [[name: 'master']],
+                              branches: [[name: 'main']],
                               doGenerateSubmoduleConfigurations: false,
                               extensions: [],
                               submoduleCfg: [],
-                              userRemoteConfigs: [[url: 'https://github.com/chandrashekar21041997/capstone-project-guvi.git']]])
+                              userRemoteConfigs: [[url: 'https://github.com/chandrashekar21041997/Guvi-Hackathon-Application.git']]])
                     // Build the Docker image
                     sh "chmod +x build.sh"
                     sh "./build.sh"
@@ -32,8 +32,8 @@ pipeline {
         }
 
         // Push the Docker image to Docker Hub
-        sh 'docker tag react-app:latest chandrashekar117/prod:react-app'
-        sh 'docker push chandrashekar117/prod:react-app'
+        sh 'docker tag react-app:latest docker push chandrashekar117/guvihackathon1:react-app'
+        sh 'docker push docker push chandrashekar117/guvihackathon1:react-app'
       }
     }
   }
